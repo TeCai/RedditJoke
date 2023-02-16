@@ -1,0 +1,14 @@
+2023-02-16 21:00:36,658 - INFO - Batch 0, Loss: 1.2841315269470215
+2023-02-16 21:00:36,850 - INFO - Batch 1, Loss: 1.194342017173767
+2023-02-16 21:00:37,035 - INFO - Batch 2, Loss: 1.1022460460662842
+2023-02-16 21:00:37,333 - INFO - Batch 4, Loss: 0.7442519664764404
+2023-02-16 21:00:37,521 - INFO - Batch 5, Loss: 1.6024678945541382
+2023-02-16 21:00:37,705 - INFO - Batch 6, Loss: 0.703491747379303
+2023-02-16 21:00:38,001 - INFO - Batch 8, Loss: 0.468960702419281
+2023-02-16 21:00:38,183 - INFO - Batch 9, Loss: 0.8585889935493469
+2023-02-16 21:00:38,368 - INFO - Batch 10, Loss: 0.447396457195282
+2023-02-16 21:00:38,662 - INFO - Batch 12, Loss: 0.8794702887535095
+2023-02-16 21:00:38,849 - INFO - Batch 13, Loss: 0.7277068495750427
+2023-02-16 21:00:39,034 - INFO - Batch 14, Loss: 0.6288974285125732
+2023-02-16 21:00:39,219 - INFO - Batch 15, Loss: 0.4530305564403534
+2023-02-16 21:00:42,659 - INFO - ['[CLS] bat on on on off off off of of one one one has has had had had got got got get get get got got gets gets gets get get gets gets got got gotten got gets got gotten gotten got gotten gets gets gotten got got had got gotten get get gotten gotten gets gotten gotten gotten get got gets has gets gets has got got has has has gets got get got get gotten got get gets got gets get got had has has have have have got got shit shit got got it it it shit shit shit get get have have has has wants got got started started started got got kids kids kids got got wanted wanted got got made got got']
